@@ -1,3 +1,3 @@
 # Patika-oop-HayvnatBahcesiUML
 
-![Başlıksız Diyagram drawio](https://user-images.githubusercontent.com/71853456/188277650-a6a2b108-328c-4293-9d16-c1aba48d22f4.png)
+![hayvanatCozum](https://user-images.githubusercontent.com/71853456/188277714-ebb7a532-9aa0-4ad9-8d3b-86ed19536e72.PNG)
